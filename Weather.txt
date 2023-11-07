@@ -1,0 +1,5 @@
+City: Calgary Temperature:0°C
+City: Halifax Temperature:6°C
+City: Montréal Temperature:4°C
+City: Toronto Temperature:3°C
+City: Vancouver Temperature:7°C
